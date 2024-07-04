@@ -34,6 +34,7 @@ class Controller:
         # SE CI SONO PROBLEMI:
         #1) self._view.create_alert("I dati devono essere bla bla")
         #2) return
+        #self._view.NOMEBOTTONE.disabled = False
 
         c = "condizione"
 
